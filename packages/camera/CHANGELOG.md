@@ -14,6 +14,7 @@
 ## 0.5.7+3
 
 * Fix an Android crash when permissions are requested multiple times.
+* Fixed garbled audio (in video) by setting audio encoding bitrate.
 
 ## 0.5.7+2
 
